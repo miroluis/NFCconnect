@@ -1,0 +1,9 @@
+entra em https://hosting31.serverhs.org:2083/
+user nfcportu
+pass nfc512
+
+http://nfc-portugal.pt/nfcconnect/listaentradas.php
+
+http://www.nfc-portugal.com/teste/index.php
+
+ftp://nfcportu@ftp.nfc-portugal.pt/public_html/nfcconnect
